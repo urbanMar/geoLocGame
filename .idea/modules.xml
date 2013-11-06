@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/geoLocGame/geoLocGame.iml" filepath="$PROJECT_DIR$/geoLocGame/geoLocGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geoLocGame/geoLocGame-geoLocGame.iml" filepath="$PROJECT_DIR$/geoLocGame/geoLocGame-geoLocGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/geoLocGameProject.iml" filepath="$PROJECT_DIR$/geoLocGameProject.iml" />
     </modules>
   </component>
